@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá, eu sou Daniel Nogueira! 👋
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNoog&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNoog&layout=compact&theme=dracula)](https://github.com/DanielNoog/github-readme-stats)
@@ -15,7 +15,7 @@
 
 <hr>
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/danielndsilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  <a href="mailto:daniel_nog10@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </div>
      
