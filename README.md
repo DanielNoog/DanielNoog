@@ -1,8 +1,13 @@
-### Olá, eu sou Daniel Nogueira! 👋
-#### Em construção...
+<div align="center">
+  <h3>Olá, eu sou Daniel Nogueira! 👋</h1>
+</div>
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielNoog&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNoog&layout=compact&theme=dracula)](https://github.com/DanielNoog/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/DanielNoog">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DanielNoog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNoog&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<br>
   
 <div align="center">
 Algumas das linguagens que utilizo! 😎
